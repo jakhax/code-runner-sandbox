@@ -7,9 +7,10 @@ Users can submit their code in any of the supported languages. The system will t
 This way you do not have to worry about untrusted code possibly damaging your server intentionally or unintentionally. You can use this system to allow your users to compile their code right in the browser.
 
 ## Security
-Am still resesrching about the security of this approach, here is some resources
+Am still resesrching about the security of this approach, here are some resources
 - https://security.stackexchange.com/questions/107850/docker-as-a-sandbox-for-untrusted-code
 - https://forums.docker.com/t/is-docker-suitable-for-running-untrusted-code/7640/4
+- https://www.freecodecamp.org/news/running-untrusted-javascript-as-a-saas-is-hard-this-is-how-i-tamed-the-demons-973870f76e1c/
 
 ## Bugs & support
 - Pull requests are welcomed.
